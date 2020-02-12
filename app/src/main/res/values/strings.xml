@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">夜间模式</string>
+    <string name="dialog_title">My great dialog</string>
+    <string name="dialog_content">My great dialog is great</string>
+</resources>
